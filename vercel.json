@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/vote/:pollId",
+        "destination": "/index.html"
+      }
+    ]
+  }
+  
